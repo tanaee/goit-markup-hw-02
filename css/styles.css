@@ -144,6 +144,10 @@ font-family: "Raleway", sans-serif;
     background-color: #2E2F42;
 }
 
+.footer-logo-text{
+    color: #f4f4fd;
+}
+
 .footer-description {
     line-height: 1.5;
     letter-spacing: 0.02em;
